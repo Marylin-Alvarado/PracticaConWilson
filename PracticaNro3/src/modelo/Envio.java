@@ -6,7 +6,7 @@ package modelo;
 import java.util.Date;
 /**
  *
- * @author Gonzalez G
+ * @author Gonzalez G y Marylin A.
  */
 public class Envio {
     private Integer id ;

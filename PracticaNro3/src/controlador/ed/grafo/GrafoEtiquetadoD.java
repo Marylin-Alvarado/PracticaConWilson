@@ -13,7 +13,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author darkangel
+ * @author darkangel y Marylin Alvarado
  */
 public class GrafoEtiquetadoD<E> extends GrafoD {
     //   1       2       3      4      5

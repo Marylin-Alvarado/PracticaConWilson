@@ -22,7 +22,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Gonzalez G
+ * @author Gonzalez G y Marylin A.
  */
 public class FrmEnvio extends javax.swing.JDialog {
 

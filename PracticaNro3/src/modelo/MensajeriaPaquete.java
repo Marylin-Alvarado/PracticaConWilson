@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author Gonzalez G
+ * @author Gonzalez G Y Marylin A.
  */
 public class MensajeriaPaquete {
     private Integer id ;

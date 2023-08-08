@@ -15,8 +15,8 @@ import modelo.MensajeriaPaquete;
 
 /**
  *
- * @author darkangel
- */
+ * @author darkangel  y Marylin A.
+ */ 
 public class UtilifdadesVistaGrafo {
 
    

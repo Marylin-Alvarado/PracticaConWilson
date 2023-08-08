@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * @author darkangel
+ * @author darkangel 
  */
 public class Utilidades {
     public static String formatDate(Date fecha) {

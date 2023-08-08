@@ -15,7 +15,7 @@ import java.text.DecimalFormat;
 
 /**
  *
- * @author darkangel
+ * @author darkangel y Marylin
  */
 public class MensajeriaDao extends AdaptadorDao<MensajeriaPaquete>{
     private MensajeriaPaquete mp;
