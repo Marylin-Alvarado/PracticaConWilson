@@ -57,7 +57,7 @@ public class FrmGrafo extends javax.swing.JDialog {
     private void cargarDatos(Integer tipo) {
         mxGraph graph = new mxGraph();
         mxGraphComponent graphComponent = new mxGraphComponent(graph);
-        graphComponent.setSize(new Dimension(700, 500));
+        graphComponent.setSize(new Dimension(1100, 9000));
         getContentPane().add(graphComponent);
         ListaEnlazada<Object> pintados = new ListaEnlazada<>();
         Object parent = graph.getDefaultParent();
@@ -124,11 +124,11 @@ public class FrmGrafo extends javax.swing.JDialog {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 720, Short.MAX_VALUE)
+            .addGap(0, 1104, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 506, Short.MAX_VALUE)
+            .addGap(0, 834, Short.MAX_VALUE)
         );
 
         pack();
