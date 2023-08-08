@@ -134,14 +134,14 @@ public class MensajeriaDao extends AdaptadorDao<MensajeriaPaquete>{
 //       mp.setmP(null);
 //       
        //cambiar latitud
-        mp.getMp().setNombreEmpresa("EntregaExpress");
+       mp.getMp().setNombreEmpresa("EntregaExpress");
        mp.getMp().setDireccion("Pastaza");
        mp.getMp().setLatitud(-1.3975);
        mp.getMp().setLongitud(-78.4252);
        mp.guardar();
        mp.setmP(null);
        //cambiar latitud
-        mp.getMp().setNombreEmpresa("Expressito");
+       mp.getMp().setNombreEmpresa("Expressito");
        mp.getMp().setDireccion("Carchi");
        mp.getMp().setLatitud(-0.6626);
        mp.getMp().setLongitud(-78.0195);
@@ -224,6 +224,78 @@ public class MensajeriaDao extends AdaptadorDao<MensajeriaPaquete>{
        mp.getMp().setDireccion("Bolivar");
        mp.getMp().setLatitud(-1.2385);
        mp.getMp().setLongitud(-78.626);
+       mp.guardar();
+       mp.setmP(null);
+       
+       // 10 más
+       mp.getMp().setNombreEmpresa("EntregaExpress");
+       mp.getMp().setDireccion("Quinara");
+       mp.getMp().setLatitud(-4.36667 );
+       mp.getMp().setLongitud(-79.2333);
+       mp.guardar();
+       mp.setmP(null);
+
+       mp.getMp().setNombreEmpresa("EntregaExpress");
+       mp.getMp().setDireccion("PortoViejo");
+       mp.getMp().setLatitud(-1.05458 );
+       mp.getMp().setLongitud(-80.45445);
+       mp.guardar();
+       mp.setmP(null);
+
+       mp.getMp().setNombreEmpresa("EntregaExpress");
+       mp.getMp().setDireccion("Babahoyo");
+       mp.getMp().setLatitud(-1.80217);
+       mp.getMp().setLongitud(-79.53443);
+       mp.guardar();
+       mp.setmP(null);
+       
+        mp.getMp().setNombreEmpresa("Ecucorreo");
+       mp.getMp().setDireccion("Vilcabamba");
+       mp.getMp().setLatitud(-12.9019391);
+       mp.getMp().setLongitud(-73.20706);
+       mp.guardar();
+       mp.setmP(null);
+       
+       mp.getMp().setNombreEmpresa("Ecucorreo");
+       mp.getMp().setDireccion("SanPedro");
+       mp.getMp().setLatitud(0.783333);
+       mp.getMp().setLongitud(-78.4);
+       mp.guardar();
+       mp.setmP(null);
+       
+       mp.getMp().setNombreEmpresa("Courir");
+       mp.getMp().setDireccion("Malacatos");
+       mp.getMp().setLatitud(-4.233333);
+       mp.getMp().setLongitud(-79.2833);
+       mp.guardar();
+       mp.setmP(null);
+       
+       mp.getMp().setNombreEmpresa("Expresito");
+       mp.getMp().setDireccion("Landangui");
+       mp.getMp().setLatitud(-4.21667);
+       mp.getMp().setLongitud(-79.2333);
+       mp.guardar();
+       mp.setmP(null);
+       
+       mp.getMp().setNombreEmpresa("EntregaExpress");
+       mp.getMp().setDireccion("Rumishitana");
+       mp.getMp().setLatitud(-4.15);
+       mp.getMp().setLongitud(-79.2167);
+       mp.guardar();
+       mp.setmP(null);
+       
+       
+       mp.getMp().setNombreEmpresa("Courir");
+       mp.getMp().setDireccion("Taxiche");
+       mp.getMp().setLatitud( -4.23333);
+       mp.getMp().setLongitud(-79.25);
+       mp.guardar();
+       mp.setmP(null);
+       
+       mp.getMp().setNombreEmpresa("EntregaExpress");
+       mp.getMp().setDireccion("Yangana");
+       mp.getMp().setLatitud(-4.38333);
+       mp.getMp().setLongitud(-79.2);
        mp.guardar();
        mp.setmP(null);
         } catch (Exception e) {
