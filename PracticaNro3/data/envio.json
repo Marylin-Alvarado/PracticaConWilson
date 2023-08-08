@@ -1,0 +1,213 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Envio",
+                "id": 1,
+                "nombre_empresa": "Expresito",
+                "destinatario": "asd",
+                "direccion": "Catamayo",
+                "paquete": "asd",
+                "distancia": 18,
+                "fecha": "2023-08-07 17:26:47.312 UTC",
+                "id_Mensajeria": 7
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Envio",
+                    "id": 2,
+                    "nombre_empresa": "Expresito",
+                    "destinatario": "asd",
+                    "direccion": "Cuenca",
+                    "paquete": "asd",
+                    "distancia": 125.9,
+                    "fecha": "2023-08-07 17:27:18.692 UTC",
+                    "id_Mensajeria": 7
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Envio",
+                        "id": 3,
+                        "nombre_empresa": "Expresito",
+                        "destinatario": "asd",
+                        "direccion": "Quito",
+                        "paquete": "asd",
+                        "distancia": 299.4,
+                        "fecha": "2023-08-07 17:27:25.373 UTC",
+                        "id_Mensajeria": 8
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Envio",
+                            "id": 4,
+                            "nombre_empresa": "Expresito",
+                            "destinatario": "asd",
+                            "direccion": "Manabi",
+                            "paquete": "asd",
+                            "distancia": 165.2,
+                            "fecha": "2023-08-07 17:27:44.263 UTC",
+                            "id_Mensajeria": 1
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Envio",
+                                "id": 5,
+                                "nombre_empresa": "Expresito",
+                                "destinatario": "ad",
+                                "direccion": "Manabi",
+                                "paquete": "asd",
+                                "distancia": 158.9,
+                                "fecha": "2023-08-07 17:27:49.745 UTC",
+                                "id_Mensajeria": 9
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Envio",
+                                    "id": 6,
+                                    "nombre_empresa": "Expresito",
+                                    "destinatario": "asd",
+                                    "direccion": "Quito",
+                                    "paquete": "asd",
+                                    "distancia": 114,
+                                    "fecha": "2023-08-07 17:27:56.377 UTC",
+                                    "id_Mensajeria": 4
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Envio",
+                                        "id": 7,
+                                        "nombre_empresa": "Expresito",
+                                        "destinatario": "asd",
+                                        "direccion": "Catacocha",
+                                        "paquete": "aasd",
+                                        "distancia": 150.3,
+                                        "fecha": "2023-08-07 17:28:18.693 UTC",
+                                        "id_Mensajeria": 8
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Envio",
+                                            "id": 8,
+                                            "nombre_empresa": "Expresito",
+                                            "destinatario": "asd",
+                                            "direccion": "Machala",
+                                            "paquete": "asd",
+                                            "distancia": 154.7,
+                                            "fecha": "2023-08-07 17:28:54.19 UTC",
+                                            "id_Mensajeria": 9
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Envio",
+                                                "id": 9,
+                                                "nombre_empresa": "Expresito",
+                                                "destinatario": "asd",
+                                                "direccion": "Zapotillo",
+                                                "paquete": "asd",
+                                                "distancia": 110.2,
+                                                "fecha": "2023-08-07 17:29:17.997 UTC",
+                                                "id_Mensajeria": 10
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Envio",
+                                                    "id": 10,
+                                                    "nombre_empresa": "Expresito",
+                                                    "destinatario": "asd",
+                                                    "direccion": "Guayaquil",
+                                                    "paquete": "asd",
+                                                    "distancia": 134,
+                                                    "fecha": "2023-08-07 17:29:30.159 UTC",
+                                                    "id_Mensajeria": 8
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Envio",
+                                                        "id": 11,
+                                                        "nombre_empresa": "Expresito",
+                                                        "destinatario": "asd",
+                                                        "direccion": "Machala",
+                                                        "paquete": "asd",
+                                                        "distancia": 106.7,
+                                                        "fecha": "2023-08-07 17:29:48.546 UTC",
+                                                        "id_Mensajeria": 7
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "modelo.Envio",
+                                                            "id": 12,
+                                                            "nombre_empresa": "Expresito",
+                                                            "destinatario": "ad",
+                                                            "direccion": "Manabi",
+                                                            "paquete": "asd",
+                                                            "distancia": 370.2,
+                                                            "fecha": "2023-08-07 17:30:42.74 UTC",
+                                                            "id_Mensajeria": 7
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "modelo.Envio",
+                                                                "id": 13,
+                                                                "nombre_empresa": "Expresito",
+                                                                "destinatario": "ASD",
+                                                                "direccion": "Manabi",
+                                                                "paquete": "ASD",
+                                                                "distancia": 154.6,
+                                                                "fecha": "2023-08-07 17:35:27.925 UTC",
+                                                                "id_Mensajeria": 4
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "modelo.Envio",
+                                                                    "id": 14,
+                                                                    "nombre_empresa": "Expresito",
+                                                                    "destinatario": "asd",
+                                                                    "direccion": "Cotopaxi",
+                                                                    "paquete": "asd",
+                                                                    "distancia": 392.4,
+                                                                    "fecha": "2023-08-07 17:36:25.973 UTC",
+                                                                    "id_Mensajeria": 2
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Envio",
+                                                                        "id": 15,
+                                                                        "nombre_empresa": "Expresito",
+                                                                        "destinatario": "dasd",
+                                                                        "direccion": "Quito",
+                                                                        "paquete": "asda",
+                                                                        "distancia": 265.9,
+                                                                        "fecha": "2023-08-07 21:09:28.835 UTC",
+                                                                        "id_Mensajeria": 9
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Envio",
+                                                                            "id": 16,
+                                                                            "nombre_empresa": "Expresito",
+                                                                            "destinatario": "AD",
+                                                                            "direccion": "Catamayo",
+                                                                            "paquete": "ASD",
+                                                                            "distancia": 422.7,
+                                                                            "fecha": "2023-08-07 21:13:53.777 UTC",
+                                                                            "id_Mensajeria": 1
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 16
+    }
+}
